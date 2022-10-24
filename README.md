@@ -2,6 +2,8 @@
 
 This plugin integrates medusa and rocketchat together to open a way to receieve notifications from medusa on Rocketchat.
 
+![Medusa X Rocketchat](medusa-rocketchat.png "Medusa X Rocketchat")
+
 ## Set up Project
 
 ### Prerequisites
