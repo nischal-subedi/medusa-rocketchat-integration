@@ -13,7 +13,7 @@ This plugin integrates medusa and rocketchat together to open a way to receieve 
 
 ### Installation
 - Clone this repo
-- Configure below paramers in backend medsa-config.js file
+- Configure below params in backend medsa-config.js file
 ```js
   {
     resolve: `rocket-chat-webhook-notifications`
